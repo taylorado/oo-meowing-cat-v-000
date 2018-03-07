@@ -7,7 +7,7 @@ attr_accessor :name
 end
 
 
-def Cat.meow
+def Cat.meow(cat)
   puts "meow!"
 
 
